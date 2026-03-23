@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "name": "Arben Krasniqi",
+    "license": "FZK-001",
+    "city": "Prishtinë",
+    "specialty": "Ortopedi, Sport",
+    "phone": "+383 XX XXX XXX",
+    "email": "arben.k@example.com"
+  },
+  {
+    "id": "2",
+    "name": "Valmira Berisha",
+    "license": "FZK-002",
+    "city": "Prishtinë",
+    "specialty": "Neurologji, Rehabilitim",
+    "phone": "+383 XX XXX XXX",
+    "email": "valmira.b@example.com"
+  },
+  {
+    "id": "3",
+    "name": "Driton Hoxha",
+    "license": "FZK-003",
+    "city": "Pejë",
+    "specialty": "Terapi Manuale",
+    "phone": "+383 XX XXX XXX",
+    "email": "driton.h@example.com"
+  },
+  {
+    "id": "4",
+    "name": "Fjolla Morina",
+    "license": "FZK-004",
+    "city": "Prizren",
+    "specialty": "Pediatri, Zhvillim motorik",
+    "phone": "+383 XX XXX XXX",
+    "email": "fjolla.m@example.com"
+  },
+  {
+    "id": "5",
+    "name": "Blend Kastrati",
+    "license": "FZK-005",
+    "city": "Gjakovë",
+    "specialty": "Ortopedi, Post-op",
+    "phone": "+383 XX XXX XXX",
+    "email": "blend.k@example.com"
+  },
+  {
+    "id": "6",
+    "name": "Era Shala",
+    "license": "FZK-006",
+    "city": "Prishtinë",
+    "specialty": "Sport, Kineziterapi",
+    "phone": "+383 XX XXX XXX",
+    "email": "era.s@example.com"
+  }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "id": "3",
+        "title": "Përditësimi i Regjistrit të Fizioterapeutëve",
+        "published": "2025-02-01",
+        "date": "1 Shkurt 2025",
+        "excerpt": "Regjistri zyrtar është përditësuar. Kontrolloni të dhënat tuaja dhe na kontaktoni për ndonjë ndryshim.",
+        "image": "https:\/\/images.unsplash.com\/photo-1579684385127-1ef15d508118?w=600&q=80",
+        "url": "lajme.html#3"
+    },
+    {
+        "id": "4",
+        "title": "Kodiksi i Etikës – version i përditësuar",
+        "published": "2025-01-20",
+        "date": "20 Janar 2025",
+        "excerpt": "U miratua versioni i ri i Kodit të Etikës për fizioterapeutët. Dokumenti është i disponueshëm në seksionin Dokumente.",
+        "image": "https:\/\/images.unsplash.com\/photo-1589829545856-d10d557cf95f?w=600&q=80",
+        "url": "dokumente.html"
+    },
+    {
+        "id": "5",
+        "title": "Feim Gashi u rizgjedh në krye të Odës së Fizioterapeutëve të Kosovës",
+        "published": "2025-02-28",
+        "date": "28 Shkurt 2025",
+        "excerpt": "Feim Gashi është zgjedhur edhe për një mandat tjetër në krye të Odës së Fizioterapeutëve të Kosovës.",
+        "image": "https:\/\/gazetascanner.com\/wp-content\/uploads\/2023\/06\/FB_IMG_1687430488109.jpg",
+        "url": "lajme.html"
+    }
+]

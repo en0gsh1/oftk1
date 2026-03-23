@@ -1,0 +1,80 @@
+{
+    "albums": [
+        {
+            "id": "kongres-konferenca",
+            "title": "Kongresi & konferenca",
+            "title_en": "Congress & conferences",
+            "photos": [
+                {
+                    "id": "1",
+                    "image": "https:\/\/images.unsplash.com\/photo-1576091160550-2173dba999ef?w=600&q=80",
+                    "title": "Kongresi i Fizioterapisë",
+                    "caption": "Prishtinë"
+                }
+            ]
+        },
+        {
+            "id": "trajnime",
+            "title": "Trajnime profesionale",
+            "title_en": "Professional training",
+            "photos": [
+                {
+                    "id": "2",
+                    "image": "https:\/\/images.unsplash.com\/photo-1544161515-4ab6ce6db874?w=600&q=80",
+                    "title": "Trajnim me stafin mjekësor",
+                    "caption": "OFTK"
+                }
+            ]
+        },
+        {
+            "id": "mbledhje-ngjarje",
+            "title": "Mbledhje & ngjarje",
+            "title_en": "Meetings & events",
+            "photos": [
+                {
+                    "id": "3",
+                    "image": "https:\/\/images.unsplash.com\/photo-1579684385127-1ef15d508118?w=600&q=80",
+                    "title": "Mbledhja e Kuvendit",
+                    "caption": "OFTK"
+                }
+            ]
+        },
+        {
+            "id": "hello",
+            "title": "Hello",
+            "title_en": "training 303",
+            "photos": [
+                {
+                    "id": "4",
+                    "image": "https:\/\/oftk-ks.org\/wp-content\/uploads\/2025\/04\/1-scaled.jpg",
+                    "title": "Kongresi",
+                    "caption": "kongres III"
+                },
+                {
+                    "id": "5",
+                    "image": "https:\/\/oftk-ks.org\/wp-content\/uploads\/2025\/04\/00000-scaled.jpg",
+                    "title": "Fundi i Kongresi",
+                    "caption": "fundi kongresit"
+                },
+                {
+                    "id": "6",
+                    "image": "https:\/\/oftk-ks.org\/wp-content\/uploads\/2025\/04\/00000-scaled.jpg",
+                    "title": "a",
+                    "caption": "a"
+                },
+                {
+                    "id": "7",
+                    "image": "https:\/\/oftk-ks.org\/wp-content\/uploads\/2025\/04\/00000-scaled.jpg",
+                    "title": "da",
+                    "caption": "da"
+                },
+                {
+                    "id": "8",
+                    "image": "https:\/\/oftk-ks.org\/wp-content\/uploads\/2025\/04\/00000-scaled.jpg",
+                    "title": "ad",
+                    "caption": "dasd"
+                }
+            ]
+        }
+    ]
+}
